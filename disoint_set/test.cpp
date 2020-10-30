@@ -1,6 +1,10 @@
 #include <iostream>
 using namespace std;
 
+/*
+测试
+*/
+
 int main()
 {
     int n;
